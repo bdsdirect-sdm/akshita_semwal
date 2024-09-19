@@ -11,12 +11,15 @@ nav {
     
 }
 
-.transparency{
-    background-color: #677294;
-    opacity: 50%;
-}
-
 .why-us button{
     border-color: #445CD5;
     background-color: white;
+}
+
+.footer{
+    background-color: #EBEBF8;
+}
+
+li{
+    list-style-type: none;
 }
